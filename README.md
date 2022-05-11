@@ -12,8 +12,7 @@
 - ⚡ Fun fact **I Don't have certificat**
 
 ### Discords
-<img src="https://discord.c99.nl/widget/theme-2/896641730680594473.png" alt="Discord"/>
-<img src="https://discordapp.com/api/guilds/896645117266505738/widget.png?style=banner4" alt="Discord Banner"/>
+<img src="https://discord.c99.nl/widget/theme-2/499611630133575680.png" alt="Discord"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
